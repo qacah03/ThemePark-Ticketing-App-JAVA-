@@ -53,6 +53,18 @@ This system aims to transform the theme park experience for both staff and visit
 
 ---
 
+## Steps to Run This App
+1. Install all the required external libraries by adding them to the Java build path.
+2. Create 4 packages in the `src` folder:
+   - `controller`
+   - `Database`
+   - `model`
+   - `View`
+3. Copy all the code files and place them in their respective packages.
+4. Run the file **`STAFFxCUSTOMER.java`** to start the application.
+
+---
+
 ## Conclusion
 The **Theme Park Ticketing & Management System** addresses existing inefficiencies and elevates both staff and customer experiences. Key improvements include:
 - Streamlined staff and ticket stock management.
@@ -63,17 +75,8 @@ Future integrations such as RFID, advanced analytics, and dynamic pricing aim to
 
 ---
 
-## How to Contribute
-Feel free to fork this repository, submit pull requests, or raise issues for any bugs or suggestions.
-
----
-
-## License
-This project is licensed under [LICENSE NAME].
-
----
-
 ## Contact
 For any questions or suggestions, please contact:
-- [Your Name/Team Name]
-- [Your Contact Email]
+- NAFIES AQASYAH BIN MOHD MAHIRI
+- nafiesaqasyah1620@gmail.com
+
